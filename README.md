@@ -7,4 +7,4 @@ A simple Python script that acts as a shell interactor, enabling users to input 
 3. View the command output.
 4. To exit, type "Exit" and press Enter.
 
-- Note: Exercise caution when entering commands, as they are executed in the shell environment.
+Note: Exercise caution when entering commands, as they are executed in the shell environment.
